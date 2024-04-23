@@ -1,0 +1,7 @@
+pymongo==4.2.0
+pandas
+numpy
+python-dateutil>=2.8.2
+tzdata>=2022.7
+ipykernel
+-e . # editable mode
