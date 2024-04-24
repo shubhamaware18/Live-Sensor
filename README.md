@@ -1,6 +1,6 @@
-# Automatic Pressure System Sensor Fault Classification for Heavy Vehicles
+# Automatic Pressure System Sensor Fault Detection for Heavy Vehicles
 
-This project implements automatic classification of pressure system sensor faults in heavy vehicles using data from MongoDB.
+This project implements automatic classificationclassification of pressure system sensor faults in heavy vehicles using data from MongoDB.
 
 ## Project Flowchart
 ![Project Flowchart](https://github.com/shubhamaware18/Live-Sensor/raw/main/flowcharts/0_Sensor%20Training%20Pipeline.png)
