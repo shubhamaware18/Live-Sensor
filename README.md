@@ -2,6 +2,12 @@
 
 This project implements automatic classification of pressure system sensor faults in heavy vehicles using data from MongoDB.
 
+## Project Flowchart
+![Project Flowchart](https://github.com/shubhamaware18/Live-Sensor/raw/main/flowcharts/0_Sensor%20Training%20Pipeline.png)
+
+**Description:**
+The flowchart illustrates the sensor training pipeline, outlining the process from data collection to model deployment. It showcases the various stages involved in training the sensor data and integrating it into the classification system.
+
 ## Features
 - Automatic fault classification based on pressure sensor data.
 - Real-time monitoring of pressure system health.
