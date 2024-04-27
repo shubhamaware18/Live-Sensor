@@ -43,4 +43,4 @@ The flowchart illustrates the sensor training pipeline, outlining the process fr
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
